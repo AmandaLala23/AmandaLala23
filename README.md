@@ -1,6 +1,7 @@
 - 👋 Hi, I'm Amanda Lala
 - 👀 I’m interested in marine life and retro tech gadgets
 - 🌱 I’m currently a student at the UofM
+- ✨ Major in Information Technology infrastructure (ITI)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy going on run's & hike's
 
