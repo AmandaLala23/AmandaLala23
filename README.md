@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Amanda Lala
+- 👋 Hello, My name is Amanda
 - 👀 I’m interested in marine life and retro tech gadgets
-- 🌱 I’m currently a student at the UofM
-- ✨ Major in Information Technology infrastructure (ITI)
+- 🌱 I’m currently a student at the UofM - Twin Cities
+- ✨ Major in Information Technology infrastructure (ITI) focus in DevOps
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy going on run's & hike's
 
