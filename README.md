@@ -16,15 +16,6 @@
 
 <h3 align="left"> 🌐 Socials:</h3>
 
-<p [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amanda-lala-3902a1264/)>
-<p align="left">
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandalala23&show_icons=true&locale=en&layout=compact" alt="amandalala23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandalala23&show_icons=true&locale=en" alt="amandalala23" /></p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
