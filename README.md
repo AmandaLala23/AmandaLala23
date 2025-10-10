@@ -15,6 +15,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AmandaLala23&theme=dark&hide_border=false)<br/>
 
 <h3 align="left"> 🌐 Socials:</h3>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amanda-lala-3902a1264/) 
 
