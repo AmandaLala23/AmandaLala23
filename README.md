@@ -19,9 +19,9 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandalala23" alt="amandalala23" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amanda-lala-3902a1264/) 
+<h3 align="left"> 🌐 Socials:</h3>
+
+<h3 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amanda-lala-3902a1264/)</h3>
 <p align="left">
 </p>
 
